@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78d2a50dcbf3bb848939e4b97ce5f91a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - image_: {instanceID: 0}
+  - score_: {instanceID: 0}
+  - scoreText_: {instanceID: 0}
+  - newTrack: {fileID: 8300000, guid: cc93281b203ff2940ab0fa5eb3210782, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

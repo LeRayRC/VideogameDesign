@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fdaf5a510bd07445979d3a7106cb036, type: 3}
+  m_Name: PlainJump
+  m_EditorClassIdentifier: 
+  obstaclePrefab_: {fileID: 3922563232975089175, guid: 843a095bf8e0e3942a2fafa238d40b03, type: 3}
